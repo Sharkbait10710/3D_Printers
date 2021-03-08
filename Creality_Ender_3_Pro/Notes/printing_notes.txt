@@ -1,0 +1,200 @@
+fresh supports come out easier
+
+Cura
+Quality -
+	Layer Height: 0.16mm
+	Initial Layer Height: 0.2mm
+	Line Width: 0.4mm
+	Wall Line WIdth: 0.4mm
+		Outer Wall Line Width: 0.4mm
+		Inner Wall(s) Line Width: 0.4mm
+	Top/Bottom Line Width: 0.4
+	Initial Layer Line Width: 110%
+Shell -
+	Wall Thickness: 1.6mm
+		Wall Line Count: 4
+	Outer Wall Wipe Distance: 0.0mm
+	Top Surface Skin Layers: 0
+	Top/Bottom Thickness: 0.84mm
+		Top Thickness: 0.84mm
+			Top Layers: 6
+		Bottom Thickness: 0.84mm
+			Bottom Layers: 6
+			Initial Bottom Layers: 6
+	Top/Bottom Pattern: Lines
+	Bottom Pattern Initial Layer: Lines
+	Top/Bottom Line irections: []
+	Optimize Wall Printing Order: check
+	Outer Before Inner Walls: no check
+	Alternate Extra Wall: no check
+	Compensate Wall Overlaps: check
+		Compensate Outer Wall Overlaps: no check
+		Compensate Inner Wall Overlaps: check
+	Minimum Wall FLow: 0%
+	Fit Gaps Between Walls: Everywhere
+	Filter Out Tiny Gaps: no check
+	Print Thin Walls: no check
+	Horizontal Expansion: 0mm
+	Initial Layer Horizontal Expansion: 0mm
+	Hole Horizontal Expansion: 0mm
+	Z Seam Alignment: User Specified
+	Z Seam Position: Back
+		Z Seam X: 110mm
+		Z Seam Y: 220mm
+	Seam Corner Preference: Smart Hiding
+	Z Seam Relative: no check
+	No Skin in Z Gaps: no check
+	Extra Skin Wall Count: 1
+	Enable Ironing: no check
+	Skin Overlap Percentage: 10%
+	Skin Overlap: 0.04mm
+Infill -
+	Infill Density: 10% (100% for structure)
+	Infill Line_Distance: 12mm
+	Infill Pattern: Cubic
+	Connect Infill Lines: no check
+	Infill Line Directions: []
+	Infill X offset: 0mm
+	Infill Y offset: 0mm
+	Randomize Infill Start: no check
+	Infill Line Multiplier: 1
+	Extra Infill Wall Count: 0
+	Infill Overlap Percentage: 30%
+		Infill Overlap: 0.12mm
+	Infill Wipe Distance: 0mm
+	Infill Layer Thickness: 0.16mm
+	Gradual Infill Steps: 0
+	Infill Before Walls: no check
+	Minimum Infill Area: 0mm^2
+	Infill Support: no check
+	Skin Removal Width: 1.6mm
+		Top SKin Removal Width: 1.6mm
+		Bottom SKin Removal WIdth: 1.6mm
+	Skin Expand Distance: 1.6mm
+		Top SKin Expand Distance: 1.6mm
+		Bottom SKin Expand Distane: 1.6mm
+	Maximum SKin Angle for Expansion: 90 degs
+	Minimm SKin Width for Expansion: 0mm
+	Skin Edge SUpport Thickness: 0
+	Skin Edge Support Layers: 0
+	Infill Overlap Percentage: 10%
+	Infill Layer Thickness: 0.1mm
+	Gradual Infill Steps: 0
+Material - 
+	Printing Temperature: 200 C
+	Printing Temperature Intial Layer: 200 C
+	Initial Printing Temperature: 200 C
+	Final Printing Temperature: 200 C
+	Build Plate Temperature: 50 C
+	Build Plate Temperature Initial Layer: 50 C
+	Flow 100%
+		Wall Flow: 100%
+			Outer Wall Flow: 100%
+			Inner Wall(s) Flow: 100%
+		Top/Bottom Flow: 100%
+		Infill FLow: 100%
+		Skirt/Brim FLow: 100%
+		Prime Tower Flow: 100%
+	Inital Layer FLow: 100%
+	Enable Retraction: check
+	Retract at Layer Change: no check
+	Retraction Distance: 5mm
+	Retraction Speed: 40mm/s
+Speed -
+	Print Speed: 60mm/s
+		Infill Speed: 60mm/s
+		Wall Speed: 30mm/s
+			Outer Wall Speed: 30mm/s
+			Inner Wall Speed: 30mm/s
+	Top/Bottom Speed: 30mm/s
+	Travel Speed: 150mm/s
+	Initial Layer Speed: 20mm/s
+		Initial Layer Print Speed: 20mm/s
+		Initial Layer Travel Speed: 100mm/s
+	Skirt/Brim Speed: 20mm/s
+	Number of SLower Layers: 2
+	Equalize Filament Flow: no check
+	Enable Acceleration Control: check
+	Enable Jerk Control: check
+Travel -
+	Enable Retraction: check
+	Retract at Layer Change: no check
+	Retraction Distance: 6.0mm/s
+	Rectraction Speed: 25mm/s
+		Retractio nRetract Speed: 25mm/s
+		Retraction Prime Speed: 25mm/s
+	Retraction Extra Prime Amount: 0mm^3
+	Retraction Minimum Travel: 1.5mm/s
+	Maximum Retraction Count: 100
+	Minimum Extrusion Distance Window: 10mm
+	Combing Mode: Not in SKin
+	Max Comb Distance With No Retract: 30mm
+	Retract Before Outer Wall: check
+	Avoid Printed Parts When Traveling: check
+	Avoid Supports When Traveling: no check
+	Travel Avoid Distance: 0.625mm
+	Layer Start X: 0mm
+	Layer Start Y: 0mm
+	Z-Hop When Retracted: no check
+Cooling -
+	Enable Print Cooling: check
+	Fan Speed: 100%
+		Regular Fan Speed: 100%
+		Maximum Fan SPeed: 100%
+	Regular/Maximum Fan Speed Threshold: 10s
+	Initial Fan Speed: 0%
+	Regular Fan Speed at Height: 0.52mm
+	Regular Fan Speed at Layer: 4
+	Minimum Layer Time: 10s
+	Minimum Speed: 10mm/s
+	Lift Head: no check
+Support -
+	Generate Support: no check (to save material)
+Build Plate Adhesion -
+	Build Plate Adhesion Type: Brim
+	Skirt/Brim Minimum Length: 250mm
+	Brim Width: 5mm
+		Brim Line Count: 12
+	Brim Distance: 0mm
+	Brim Only on Outside: check
+Dual Extrusion -
+	(no dual extrusion)
+Mesh Fixes:
+	Union Overlapping Volumes: check
+	Remove All HOles: no check
+	Extensive Stitching: no check
+	Keep Disconnected Faces: no check
+	Merged Meshes Overlap: 0.15mm
+	Remove Mesh Intersection: no check
+	Remove Empty First Layers: check
+	Maximum Resolution: 0.05mm
+	Maximum Travel Resolution: 0.05mm
+	Maximum Deviation: 0.025mm
+Special Modes:
+	Print Sequence: All at Once
+	Mold: no check
+	Surface Mode: Normal
+	Spiralize Outer Contour: no check
+	Relative Extrusion: no check
+Experimental -
+	Slicing Tolerance: MIddle
+	Infill Travel Optimization: no check
+	Minimum Polygon Circumference: 1mm
+	Enable Draft Shield: no check
+	Make Overhang Printable: no check
+	Enable Coasting: no check
+	Fuzzy Skin: no check
+	Flow Rate Compensati...Max Extrusion Offset: 0mm
+	Flow Rate Compensation Factor: 100%
+	Wire Printing: nocheck
+	Use Adaptive Layers: check
+	Overhanging Wall Angle: 90 degress
+	Overhanging Wall Speed: 100%
+	Enable Bridge Settings: no check
+	Wipe Nozzle Between Layers: no check
+	Small Hole Max Size: 0mm
+		Small Feature Max Length: 0mm
+	Smal Feature SPeed: 50%
+	Small Feature Initial Layer SPeed: 30%
+	Make Overhang Printable: no check
+	Use adaptive layers: no check

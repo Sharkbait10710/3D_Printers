@@ -1,0 +1,37 @@
+NO WOBBLE! PLEASE
+DONT OVERTIGHT JUST ONE NUT
+	-tighten one at a time
+	-why? i dont know
+	- when meet resistance, switch to
+		next nut
+	-if no wobble, good
+	-do NOT allow screw to wobble
+	- not to tight! or else wheels will shread
+	- adjust nuts and assure wheels turn AND
+		bed moves
+aluminum extrusion (bar)
+	-right one, bottom is hole closer to end
+Level
+	-find a a very level place to level plate
+Power Supply
+	-always switch to voltage to 115V
+	-or else you mess up power supply
+Hot End
+	-Should not be too tight
+belt
+	-if too tight, belt wears and all 
+	components, but NO loose
+bolten tube into fitting gear
+	- fitting not reliable, something needs to be put
+		to ensure that it doesnt fall out
+make sure ALL nuts are tight
+make sure ALL wheels are movign smoothly
+screen
+	-third one is closet to printing bed
+no automatic level
+	-use a piece of paper
+bed
+	-60 C
+hot end - 215 C
+print
+	-pull off mat

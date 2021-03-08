@@ -1,0 +1,22 @@
+How to level 3D printer bed
+	-when bed is level, position between bed and nozzle
+is always the same everywhere
+		-not always possible, there will be 
+			low and high spots
+	-print files: http://www.thingiverse.com/thing:3235018
+	- ^ use file to place print head at 5 locations
+		on print bed and adjust bed; place paper
+		between nozzle and bed until it barely 
+		moves; BARELY SLIDE OUT, SIGNIFICANT
+		RESISTANCE
+		- in middle, must adjust all screws
+			equally
+		- https://www.chepclub.com/bed-level.html
+	- when printing, rub finger against print to
+		see if print knocks off, if not sticky,
+			then print will get knocked off
+			- this means screw must be brought
+				closer to nozzle
+			-CW is closer, CCW is farther
+	- best to leave bed there and not peel, cause it can
+	affect bed level
