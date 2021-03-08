@@ -121,7 +121,7 @@ Travel -
 	Retract at Layer Change: no check
 	Retraction Distance: 6.0mm/s
 	Rectraction Speed: 25mm/s
-		Retractio nRetract Speed: 25mm/s
+		Retraction Retract Speed: 25mm/s
 		Retraction Prime Speed: 25mm/s
 	Retraction Extra Prime Amount: 0mm^3
 	Retraction Minimum Travel: 1.5mm/s
@@ -161,7 +161,7 @@ Dual Extrusion -
 	(no dual extrusion)
 Mesh Fixes:
 	Union Overlapping Volumes: check
-	Remove All HOles: no check
+	Remove All Holes: no check
 	Extensive Stitching: no check
 	Keep Disconnected Faces: no check
 	Merged Meshes Overlap: 0.15mm
@@ -186,7 +186,7 @@ Experimental -
 	Fuzzy Skin: no check
 	Flow Rate Compensati...Max Extrusion Offset: 0mm
 	Flow Rate Compensation Factor: 100%
-	Wire Printing: nocheck
+	Wire Printing: no check
 	Use Adaptive Layers: check
 	Overhanging Wall Angle: 90 degress
 	Overhanging Wall Speed: 100%
@@ -194,7 +194,7 @@ Experimental -
 	Wipe Nozzle Between Layers: no check
 	Small Hole Max Size: 0mm
 		Small Feature Max Length: 0mm
-	Smal Feature SPeed: 50%
-	Small Feature Initial Layer SPeed: 30%
+	Smal Feature Speed: 50%
+	Small Feature Initial Layer Speed: 30%
 	Make Overhang Printable: no check
 	Use adaptive layers: no check
