@@ -1,0 +1,66 @@
+if pre-heated nozzle has a really warm or hot coupling,
+this may be sign of a failing fan (and fan isn't being
+held back by dust / filaments)
+if there is some filament at the hot end part of tube and 
+filament is all around the inside of tube end, this is
+sign that PTFE tubing is losing a bit of its lubricating
+	-slow retraction
+	-slow prints
+	-leads to gaps to prints and strings
+	-if tubing is black, that indicates burnt tube
+		-this will give terrible retraction and prints
+		-indicates replacement or clip off piece of tube
+	-bad tube can also lead to nozzle replacement
+	-thumb nozzle
+		Ender 3 Nozzle Set: https://amzn.to/2YNRee0
+		Clear PTFE: https://amzn.to/3eRLZQe
+		Creality 24v Fan Set: https://amzn.to/38u9aOl
+	-relevel bed once replacement
+clean extruder because if its too dirty, then it starts
+slipping
+	-if fans dont work, heat has to go somewhere,
+		and it goes into the tube, destroying it
+3D Printer Maintenance CheckList -
+	Loose belts: adjust idler wheel to adjust belt tension
+		loosen screws just enough for movement. Use
+		flathead screwdriver as lever to gently and
+		accurately add tension in and then tighten
+		the screws. Make nut must engage with bar
+		If belt can slide left-and-right on idler,
+		there isnt enough tension and must redo process
+		Can tighten idle with hand
+	Worn motion components: thoroughly clean dust off.
+		clean V slot extrusion itself. Debris lead
+		to bumps. Use isopropyl alchohol and towels.
+		Make sure V wheels are not too tight that it
+		damages wheels. Lubrication (Super lube)
+		anything that needs. Z axis needs it for sure
+		it. If theres too much noise, use it. Check for wobbles,
+		and tighten wheels. Must avoid flat spots
+	Wire fatigue: there should be no char. If wires are not
+		fully attached, resistance will increase. Should
+		not be rubbing on any metal parts
+	Dust and Debris: use cloth to get rid of superficial
+		dust. Use IPA. Dust builds up at ends and wheels
+		Dust builds in cool fan. Bristel vaccuum works.
+		Use q tips with IPA. Canned air can help
+	Clogged or worn mozzle: withdraw all filament (warm
+		up filament, push down a bit for little extrusion,
+		and then pull out). Make sure hot end cools completely
+		before maintenance. Avoid wire does not make contact
+
+	PTFE replacement: make sure coupler and PTFE do not have clogs
+	because they are loose. Make sure drive gear is clean
+	Fastener: make sure to ensure that they dont become wobbly,
+	Check mouth for hot end (ruins print quality). Grub screw
+	on stepper motor
+	Hot end: thermistor and heating cartirdge
+	must be attached properly. Held firmly in place. do NOT
+	allow it to fall, or else fire most likely will happen
+	Insert cleaning filament can help remove gunk in 
+ 	hot end
+	Mods and upgrades:  
+
+	Tools Needed: Alien key, wrench, flathead screwdriver
+	(Xtrememe performance grease for lubrication), (soldering,
+	heat shrink for wire repair)
