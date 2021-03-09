@@ -35,3 +35,5 @@ bed
 hot end - 215 C
 print
 	-pull off mat
+
+Are bottom wheels' bolts and nuts attached too tight?
